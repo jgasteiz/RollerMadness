@@ -9,14 +9,14 @@ In this assignment, you will complete the Roller Madness Unity3D project, which 
 
 ### Instructions
 
-- [ ] Follow along with the videos that accompany this module to build the basis of your game.
+- [x] Follow along with the videos that accompany this module to build the basis of your game.
 - [x] Duplicate the “Level1” scene to create a “Level2” scene. (Edit->Duplicate)
-- [ ] Modify Level2 to create an interesting second level of the game through the use of bumpers, floor pieces, other prototype assets, enemies, coins, and spawners. Try to make your level coherent. That is, try to make a complete experience for your player vs. a bunch of random things thrown together.
-- [ ] In Level 2, modify the GameOverCanvas to have the “Play Again” button load “Level2” when pressed.
-- [ ] In Level 2, modify the GameOverCanvas by adding a second “Restart” button that loads “Level1” when pressed.
-- [ ] In Level1, create a BeatLevel UI Canvas, “Level Victory” message, and “Next Level” button, that when pressed, loads “Level2”.
-- [ ] In Level1, modify the GameManager to allow you to beat the level by collecting 5 coins and bring up the BeatLevel UI Canvas, so players are congratulated and then can move on to Level2. Don’t make it too hard to move from Level1 to Level2 for the peer reviewers. Feel free to make Level2 either more difficult to beat or have no victory state.
-- [ ] Make sure all the scenes that you use are included in the Build Settings (File->Build Settings...)
+- [x] Modify Level2 to create an interesting second level of the game through the use of bumpers, floor pieces, other prototype assets, enemies, coins, and spawners. Try to make your level coherent. That is, try to make a complete experience for your player vs. a bunch of random things thrown together.
+- [x] In Level 2, modify the GameOverCanvas to have the “Play Again” button load “Level2” when pressed.
+- [x] In Level 2, modify the GameOverCanvas by adding a second “Restart” button that loads “Level1” when pressed.
+- [x] In Level1, create a BeatLevel UI Canvas, “Level Victory” message, and “Next Level” button, that when pressed, loads “Level2”.
+- [x] In Level1, modify the GameManager to allow you to beat the level by collecting 5 coins and bring up the BeatLevel UI Canvas, so players are congratulated and then can move on to Level2. Don’t make it too hard to move from Level1 to Level2 for the peer reviewers. Feel free to make Level2 either more difficult to beat or have no victory state.
+- [x] Make sure all the scenes that you use are included in the Build Settings (File->Build Settings...)
 - [ ] Play your game several times and make sure there are no bugs (code issues), flaws in gameplay, or look-and-feel issues. If there are, fix them.
 - [ ] Create a WebGL build of the project with the resulting files within a folder called “WebGL” located within a "Builds" folder in the top-level of your project folder.
 - [ ] Create a compressed (zip archive) of your project folder.
