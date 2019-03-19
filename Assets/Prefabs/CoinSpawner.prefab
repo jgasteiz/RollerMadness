@@ -45,6 +45,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnPrefab: {fileID: 3423413154902222615, guid: 1fe96e08c251d44cfad00f5e2f283f85,
     type: 3}
-  minSecondsBetweenSpawning: 1
-  maxSecondsBetweenSpawning: 5
+  minSecondsBetweenSpawning: 5
+  maxSecondsBetweenSpawning: 10
   chaseTarget: {fileID: 0}
