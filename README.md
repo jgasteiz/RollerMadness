@@ -10,7 +10,7 @@ In this assignment, you will complete the Roller Madness Unity3D project, which 
 ### Instructions
 
 - [ ] Follow along with the videos that accompany this module to build the basis of your game.
-- [ ] Duplicate the “Level1” scene to create a “Level2” scene. (Edit->Duplicate)
+- [x] Duplicate the “Level1” scene to create a “Level2” scene. (Edit->Duplicate)
 - [ ] Modify Level2 to create an interesting second level of the game through the use of bumpers, floor pieces, other prototype assets, enemies, coins, and spawners. Try to make your level coherent. That is, try to make a complete experience for your player vs. a bunch of random things thrown together.
 - [ ] In Level 2, modify the GameOverCanvas to have the “Play Again” button load “Level2” when pressed.
 - [ ] In Level 2, modify the GameOverCanvas by adding a second “Restart” button that loads “Level1” when pressed.
