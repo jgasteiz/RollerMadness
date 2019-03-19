@@ -17,17 +17,17 @@ In this assignment, you will complete the Roller Madness Unity3D project, which 
 - [x] In Level1, create a BeatLevel UI Canvas, “Level Victory” message, and “Next Level” button, that when pressed, loads “Level2”.
 - [x] In Level1, modify the GameManager to allow you to beat the level by collecting 5 coins and bring up the BeatLevel UI Canvas, so players are congratulated and then can move on to Level2. Don’t make it too hard to move from Level1 to Level2 for the peer reviewers. Feel free to make Level2 either more difficult to beat or have no victory state.
 - [x] Make sure all the scenes that you use are included in the Build Settings (File->Build Settings...)
-- [ ] Play your game several times and make sure there are no bugs (code issues), flaws in gameplay, or look-and-feel issues. If there are, fix them.
-- [ ] Create a WebGL build of the project with the resulting files within a folder called “WebGL” located within a "Builds" folder in the top-level of your project folder.
-- [ ] Create a compressed (zip archive) of your project folder.
-- [ ] Upload the resulting zip archive for peer review.
+- [x] Play your game several times and make sure there are no bugs (code issues), flaws in gameplay, or look-and-feel issues. If there are, fix them.
+- [x] Create a WebGL build of the project with the resulting files within a folder called “WebGL” located within a "Builds" folder in the top-level of your project folder.
+- [x] Create a compressed (zip archive) of your project folder.
+- [x] Upload the resulting zip archive for peer review.
 
 Optional items:
 
-- [ ] Modify the design of Level1.
+- [x] Modify the design of Level1.
 - [ ] Replace the sound effects to update the sound design of the game.
 - [ ] Replace the textures and/or models to update the visual aesthetics of the game.
-- [ ] Do any other modifications to make your game interesting and fun to play.
+- [x] Do any other modifications to make your game interesting and fun to play.
 
 NOTE: You do not need to write any code. It is fine to work within the confines of the scripts that are provided to you. We will discuss coding next week.
 
