@@ -1,6 +1,6 @@
-# Roller Madness - week 2
+# Roller Madness - week 3
 
-This is the 2nd week project for the course [Introduction to Game Development](https://www.coursera.org/learn/game-development/)
+This is the 3rd week project for the course [Introduction to Game Development](https://www.coursera.org/learn/game-development/)
 
 
 ## Assignment summary
